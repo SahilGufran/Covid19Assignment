@@ -1,21 +1,55 @@
-# COVID-19 Tracker
-```
-npm install
-```
+# Getting Started with yarn
 
-## Run Locally
+yarn install
 
-```
-npm start
-```
+## Available Scripts
 
-## Contribute
+In the project directory, you can run:
 
-Covid-19 India Tracker is an open source project. So, feel free to contribute. And if you're new to contributing to Open Source on Github, then [this guide](https://guides.github.com/activities/contributing-to-open-source/) will help you.
+### `yarn start`
 
-If you find any error or have any suggestion, feel free to create an [issue](https://github.com/PrinceSumberia/covid-19-tracker/issues/new).
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Credits
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- Thanks, [@covid19india](https://github.com/covid19india) for the awesome [API](https://api.covid19india.org/). Was previously using [this API](https://api.rootnet.in/covid19-in/)
-- Thanks, [Drawer](https://drawer.design/products/coronavirus-icons) for the awesome Icons.
+### `yarn test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `yarn build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
