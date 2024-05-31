@@ -2,7 +2,7 @@
 
 ## Available Scripts
 
-#Live:<a href="https://covid19assignmentbraininventory.netlify.app/">Covid19Assignent</a>
+#Live: <a href="https://covid19assignmentbraininventory.netlify.app/">Covid19Assignent</a>
  
 In the project directory, you can run:
 
