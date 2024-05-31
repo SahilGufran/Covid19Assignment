@@ -2,9 +2,11 @@
 
 ## Available Scripts
 
+#Live:(https://covid19assignmentbraininventory.netlify.app/)
+ 
 In the project directory, you can run:
 
-### `yarn install`
+### `yarn install` 
 
 then 
 
