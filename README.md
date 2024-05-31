@@ -1,15 +1,4 @@
 # COVID-19 Tracker
-
-<p align="center">
-<img src="./src/assets/covid-india-tracker.png" width="100%">
-</p>
-
-<p align="center">
-  View <a href="https://covidindiatracker.netlify.app/">Covid-19 India Tracker</a>
-</p>
-
-## Project Setup
-
 ```
 npm install
 ```
