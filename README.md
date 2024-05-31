@@ -1,10 +1,12 @@
-# Getting Started with yarn
 
-yarn install
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn install`
+
+then 
 
 ### `yarn start`
 
